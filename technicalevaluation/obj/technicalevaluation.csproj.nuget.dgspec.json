@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\knjtest\\technicalevaluation\\technicalevaluation\\technicalevaluation.csproj": {}
+    "C:\\Users\\001.ffblanco\\Documents\\GitHub\\technicalevaluation\\technicalevaluation\\technicalevaluation.csproj": {}
   },
   "projects": {
-    "C:\\knjtest\\technicalevaluation\\technicalevaluation\\technicalevaluation.csproj": {
+    "C:\\Users\\001.ffblanco\\Documents\\GitHub\\technicalevaluation\\technicalevaluation\\technicalevaluation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\knjtest\\technicalevaluation\\technicalevaluation\\technicalevaluation.csproj",
+        "projectUniqueName": "C:\\Users\\001.ffblanco\\Documents\\GitHub\\technicalevaluation\\technicalevaluation\\technicalevaluation.csproj",
         "projectName": "technicalevaluation",
-        "projectPath": "C:\\knjtest\\technicalevaluation\\technicalevaluation\\technicalevaluation.csproj",
+        "projectPath": "C:\\Users\\001.ffblanco\\Documents\\GitHub\\technicalevaluation\\technicalevaluation\\technicalevaluation.csproj",
         "packagesPath": "C:\\Users\\001.ffblanco\\.nuget\\packages\\",
-        "outputPath": "C:\\knjtest\\technicalevaluation\\technicalevaluation\\obj\\",
+        "outputPath": "C:\\Users\\001.ffblanco\\Documents\\GitHub\\technicalevaluation\\technicalevaluation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",

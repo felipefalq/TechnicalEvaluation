@@ -75,13 +75,6 @@ namespace technicalevaluation.Repos
         {
             _dbContext.Attach(entity);
         }
-
-
-        //public async Task<CollaboratorInfo> FindByNameAndIds(string name, int unitId, int userId)
-        //{
-        //    return await _dbContext.Collaborators
-        //        .FirstOrDefaultAsync(c => c.Name == name && c.UnitId == unitId && c.UserId == userId);
-        //}
     }
 }
 

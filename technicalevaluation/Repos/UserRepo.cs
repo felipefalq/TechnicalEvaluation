@@ -51,18 +51,5 @@ namespace technicalevaluation.Repos
             }
             return false;
         }
-        //public async Task<bool> Delete(int id)
-        //{
-        //    UserInfo userById = await FindById(id);
-
-        //    if (userById == null)
-        //    {
-        //        throw new Exception($"Usuário para o Id:{id} não foi encontrado no banco de dados.");
-        //    }
-
-        //    _dbContext.Users.Remove(userById);
-        //    await _dbContext.SaveChangesAsync();
-        //    return true;
-        //}
     }
 }

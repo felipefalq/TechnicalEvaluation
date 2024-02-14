@@ -9,8 +9,5 @@ namespace technicalevaluation.Repos.Interfaces
         Task<UnitInfo> Add(UnitInfo unit);
         Task<bool> Delete(int id);
         Task<bool> DeactivateUnit(int unitId);
-
-        //Task<List<UnitWithCollaborators>> FindAllUnitsWithCollaborators();
-
     }
 }

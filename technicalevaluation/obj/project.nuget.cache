@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KPZSXQRjxAGkbRHxLS7fgsuQKyRCB0c0JfDNwhb2UUKrV+GXF8yYFPbTr3SMoVY40bFq9AXh3Aj2A284izQK5w==",
+  "dgSpecHash": "BwsvGVIICiI8DSksJNBTKoQ5x212/PXCLFeLgxTgtl9J1S3Hodf78Eqo7QzzM957AjLcTwkDBUnAhdlhVQ3MRQ==",
   "success": true,
-  "projectFilePath": "C:\\knjtest\\technicalevaluation\\technicalevaluation\\technicalevaluation.csproj",
+  "projectFilePath": "C:\\Users\\001.ffblanco\\Documents\\GitHub\\technicalevaluation\\technicalevaluation\\technicalevaluation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\001.ffblanco\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\001.ffblanco\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

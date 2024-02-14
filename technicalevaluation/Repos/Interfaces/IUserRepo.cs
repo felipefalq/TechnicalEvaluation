@@ -11,6 +11,5 @@ namespace technicalevaluation.Repos.Interfaces
         Task<UserInfo> FindByUsername(string username);
         Task<UserInfo> Add(UserInfo user);
         Task<bool> UpdateUserCredentials(int userId, string newPassword, StatusUser newStatus);
-        //Task<bool> Delete(int id);
     }
 }

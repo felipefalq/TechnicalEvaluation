@@ -8,8 +8,7 @@ namespace technicalevaluation.Data.Map
         public void Configure(EntityTypeBuilder<CollaboratorInfo> builder)
         {
             builder.HasKey(x => x.Id);
-            builder.Property(x => x.Name);
-            
+            builder.Property(x => x.Name);           
             builder.Ignore(x => x.Unit);
         }
     }
